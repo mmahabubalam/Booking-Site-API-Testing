@@ -4,59 +4,59 @@
 This is an API testing project using Postman, Given a step by step instruction.
 
 ### Feature 
-- Tests for POST, GET, PUT, DELETE requests
-- Validates different API(s)
-- Environment setup for easy switching between environments
-- Pre-request scripts for data setup
-- Test scripts for assertions and validations
+   - Tests for POST, GET, PUT, DELETE requests
+   - Validates different API(s)
+   - Environment setup for easy switching between environments
+   - Pre-request scripts for data setup
+   - Test scripts for assertions and validations
 
 ### API Documentation 
 - https://documenter.getpostman.com/view/13082503/2sA2xmUAJ1
 
 ### Tools Used
-- Postman
-- Newman
+   - Postman
+   - Newman
 ### Prerequisite:
-- Node Js
-- Newman
-- Newman Html Report Library
+   - Node Js
+   - Newman
+   - Newman Html Report Library
 ### Installation
-1. Postman: Download and install Postman.(If you don't have it) [download and install Postman.](https://www.postman.com/downloads/) 
+ 1. Postman: Download and install Postman.(If you don't have it) [download and install Postman.](https://www.postman.com/downloads/) 
 
 2. Clone the repository: 
 ```bash
 git Clone https://github.com/mmahabubalam/Booking-Site-API-Testing.git
 ```
 3. Import the Postman collection:
-- Open Postman.
-- Click on the Import button.
-- Select the file from the Collection folder of repository.
+   - Open Postman.
+   - Click on the Import button.
+   - Select the file from the Collection folder of repository.
 
 4. Import the Postman environment:
-- In Postman, click on the gear icon in the top right corner.
-- Select Import and choose the file.
+   - In Postman, click on the gear icon in the top right corner.
+   - Select Import and choose the file.
 
 5. Newman and Report Installation Process:
-- Newman Install Command:
+  - Newman Install Command:
 ```bash
  npm install -g newman
 ```
-- Newman Html Report Install Command:
+   - Newman Html Report Install Command:
 ```bash
 npm install -g newman-reporter-htmlextra
 ```
 
 ### Usage
 1. Select Environment:
-- In Postman, select the appropriate environment (e.g., Development, Production) from the top-right dropdown.
+   - In Postman, select the appropriate environment (e.g., Development, Production) from the top-right dropdown.
 2. Run Collection:
-- Select the imported collection from the Collections sidebar.
-- Click on the Runner button to open the collection runner.
-- Select the desired environment.
-- Click Start Test to run the collection.
+   - Select the imported collection from the Collections sidebar.
+   - Click on the Runner button to open the collection runner.
+   - Select the desired environment.
+   - Click Start Test to run the collection.
 3. View Results:
-- Once the tests are complete, view the results in the Runner tab.
-- Detailed test results can be viewed for each request.
+   - Once the tests are complete, view the results in the Runner tab.
+   - Detailed test results can be viewed for each request.
 ## Testing
 ## Test Case Scenarios:
 ## _1. Create New Booking_
