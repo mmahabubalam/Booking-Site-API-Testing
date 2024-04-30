@@ -30,7 +30,7 @@ git Clone https://github.com/mmahabubalam/Booking-Site-API-Testing.git
 3. Import the Postman collection:
    - Open Postman.
    - Click on the Import button.
-   - Select the file from the Collection folder of repository.
+   - Select the file from the repository.
 
 4. Import the Postman environment:
    - In Postman, click on the gear icon in the top right corner.
