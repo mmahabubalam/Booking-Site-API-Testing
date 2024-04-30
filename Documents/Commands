@@ -1,0 +1,4 @@
+For Run the Test: 
+newman run Booking_Site_API_Testing.postman_collection.json -e booking-api.postman_environment.json
+For Generate a report: 
+newman run Booking_Site_API_Testing.postman_collection.json -e booking-api.postman_environment.json -r cli,htmlextra
