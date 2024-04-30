@@ -164,7 +164,7 @@ pm.environment.set("checkout", today.add(5, 'day').format("YYYY-MM-DD")) ///chec
 
 ```bash
   {
-   "token": "06eb798bf6f2caa"
+   "token": "eff1d4e245fc87f"
 }
 ```
 ## _4. Update the Booking Details_
