@@ -11,7 +11,7 @@ This is an API testing project using Postman, Given a step by step instruction.
    - Test scripts for assertions and validations
 
 ### API Documentation 
-- https://documenter.getpostman.com/view/13082503/2sA2xmUAJ1
+- https://documenter.getpostman.com/view/34488432/2sA3JDfjJZ
 
 ### Tools Used
    - Postman
